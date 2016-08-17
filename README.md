@@ -1,2 +1,2 @@
 # Project
-Need a android HTML5 app who can do CRUD and login
+Need an android HTML5 app who can do CRUD and login
